@@ -1,0 +1,6 @@
+{
+  "name": "Daily Goal & Task Manager AI",
+  "description": "Intake-first conversational AI that assesses feasibility, uniqueness, and timeline to generate actionable daily goals and tasks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
